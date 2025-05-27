@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coração Literário - História</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon">
+                    <div class="diamond-shape"></div>
+                </div>
+                <div class="logo-text">LARA AMANDA</div>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="pagna2.html">Notícias</a></li>
+                    <li><a href="pagna3.html" class="active">História</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="title-container">
+                <h1>
+                    <span class="title-line">História</span>
+                    <span class="title-line">do Site</span>
+                </h1>
+            </div>
+
+            <div class="subtitle">
+                <p>Conheça nossa jornada literária.</p>
+            </div>
+
+            <div class="divider"></div>
+        </main>
+
+        <section class="historia-site">
+            <div class="titulo-container titulo-retangulo">
+                <h2>UM POUCO DA HISTÓRIA DO MEU SITE:</h2>
+            </div>
+            <div class="historia-content">
+                <p>
+                    ♡ Criei este site para inspirar adolescentes a lerem. Sou apaixonado por livros de romance e, por isso, decidi dedicar meu tempo a compartilhar minha paixão com vocês. Criei este site no dia 24 de janeiro de 2024, com o objetivo de promover a leitura e mostrar o quanto os livros podem transformar nossas vidas. Espero que, através deste espaço, vocês encontrem histórias que toquem o coração, personagens que se tornem amigos e momentos de diversão e aprendizado. Vamos juntos embarcar nessa jornada literária e descobrir o poder das palavras!
+                </p>
+                <div class="historia-imagem">
+                    <img src="https://i.pinimg.com/736x/54/b9/a7/54b9a7bb2a506cbdab95cf074539a8b0.jpg" alt="Imagem representativa de livros" class="imagem">
+                </div>
+                <p>
+                    A paixão pela leitura começou cedo na minha vida, e os livros de romance sempre tiveram um lugar especial no meu coração. Acredito que através das histórias de amor, podemos explorar emoções profundas, entender melhor os relacionamentos humanos e até mesmo encontrar inspiração para nossas próprias vidas.
+                </p>
+                <p>
+                    Este site é um espaço dedicado a todos que, assim como eu, encontram nas páginas dos livros um refúgio, uma aventura e uma fonte inesgotável de emoções. Aqui, compartilho minhas indicações, análises e novidades do mundo literário romântico, sempre com o objetivo de incentivar mais pessoas a descobrirem o prazer da leitura.
+                </p>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 Coração Literário</p>
+        </footer>
+    </div>
+</body>
+</html>
